@@ -1,5 +1,11 @@
 import speech_recognition as sr
 import requests
+import os
+from dotenv import load_dotenv
+import replicate
+
+load_dotenv()
+api=os.getenv("apikey")
 
 def voiceinput(t=12,p=25):
     with sr.Microphone() as source :
