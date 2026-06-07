@@ -117,6 +117,17 @@ Create a highly detailed cinematic image of a futuristic cyberpunk city floating
 The application generates and previews an AI-created image based on the spoken description.
 
 ---
+# Screenshots
+---
+
+## Generated AI Image
+
+<p align="center">
+  <img width="1018" height="1018" alt="image" src="https://github.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" />
+</p>
+
+---
+
 
 
 # Important Notes
