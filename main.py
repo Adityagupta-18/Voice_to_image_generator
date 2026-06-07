@@ -49,8 +49,3 @@ if __name__=="__main__":
         image(img_prompt)
     except Exception as e:
         print("Retry")
-
-
-# A majestic dragon flying above snow-covered mountains during a thunderstorm,
-# lightning striking in the background, glowing blue eyes, ultra realistic scales,
-# cinematic fantasy scene, volumetric clouds, dramatic lighting, highly detailed, 8k masterpiece
