@@ -79,7 +79,7 @@ pip install speechrecognition huggingface_hub pillow python-dotenv
 ## Create `.env` File
 
 ```env
-HF_TOKEN=your_huggingface_api_token
+apikey=your_huggingface_api_token
 ```
 
 ---
