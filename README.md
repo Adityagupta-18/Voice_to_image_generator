@@ -118,23 +118,6 @@ The application generates and previews an AI-created image based on the spoken d
 
 ---
 
-# Screenshots
-
-## Voice Recognition Output
-
-<p align="center">
-  <img src="screenshots/voice_input.png" width="800">
-</p>
-
----
-
-## Generated AI Image
-
-<p align="center">
-  <img src="screenshots/generated_image.png" width="800">
-</p>
-
----
 
 # Important Notes
 
