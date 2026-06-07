@@ -2,10 +2,10 @@ import speech_recognition as sr
 import requests
 import os
 from dotenv import load_dotenv
-import replicate
+import webbrowser as wb
 
 load_dotenv()
-api=os.getenv("apikey")
+os.environ["REPLICATE_API_TOKEN"]=os.getenv("apikey")
 
 def voiceinput(t=12,p=25):
     with sr.Microphone() as source :
@@ -13,28 +13,23 @@ def voiceinput(t=12,p=25):
         audio=rec.listen(source,timeout=t,phrase_time_limit=p)
     return rec.recognize_google(audio)
 
+def image():
+    pass
+
 def prompt(text):
     return f"""
-    Create a highly detailed, visually stunning image based on the following description: {text}.
-
-    The image should be:
-    - ultra realistic and cinematic
-    - highly detailed with sharp focus
-    - professionally composed like a DSLR photograph
-    - with proper lighting, depth, and perspective
-    - 4K high resolution quality
-    - visually clear and meaningful even if the input is abstract
-
-    If the input is abstract or unclear, creatively interpret it into a meaningful and artistic visual scene.
+    Create a highly detailed, visually stunning image based on: {text}.
+    ultra realistic, cinematic lighting, high resolution,
+    professional composition, depth of field.
     """.strip()
 
 if __name__=='__main__':
     rec=sr.Recognizer()
     print("Initialising...")
     try:
-        print("Listening...")
         uservoice=voiceinput()
         print(uservoice)
         img_prompt=prompt(uservoice)
+        image(img_prompt)
     except Exception as e:
         print("Retry")
