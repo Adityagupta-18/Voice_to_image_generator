@@ -123,7 +123,7 @@ The application generates and previews an AI-created image based on the spoken d
 ## Generated AI Image
 
 <p align="center">
-  <img width="1018" height="1018" alt="image" src="https://github.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" />
+  <img width="512" height="1018" alt="image" src="https://github.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" />
 </p>
 
 ---
