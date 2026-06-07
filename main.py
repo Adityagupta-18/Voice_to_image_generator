@@ -27,7 +27,7 @@ def prompt(text):
     return f"""
     Ultra realistic cinematic image of {text},highly detailed, professional photography,
     sharp focus, dramatic lighting,depth of field, vibrant colors,
-    4k quality, realistic textures,masterpiece composition, visually stunning"""
+    8k quality, realistic textures,masterpiece composition, visually stunning"""
 
 
 def image(prompt_text):
