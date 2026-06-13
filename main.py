@@ -49,5 +49,3 @@ if __name__=="__main__":
         image(img_prompt)
     except Exception as e:
         print("Retry")
-
-#comment qedq
