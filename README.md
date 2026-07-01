@@ -123,8 +123,12 @@ The application generates and previews an AI-created image based on the spoken d
 ## Generated AI Image
 
 <p align="center">
-  <img width="512" alt="image" src="https://github.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" />
+  
+| <img width="500" alt="underwater city" src="https://github.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" /> | <img width="500" alt="floating island" src="https://github.com/user-attachments/assets/0c607f7c-fe26-439e-bdc3-2e5d89bdab19" /> |
+|---|---|
+
 </p>
+
 
 ---
 
