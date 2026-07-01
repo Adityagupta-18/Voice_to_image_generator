@@ -124,7 +124,8 @@ The application generates and previews an AI-created image based on the spoken d
 
 <p align="center">
   
-| <img width="500" alt="underwater city" src="https://gitgihub.com/user-attachments/assets/032f4f4d-46dc-4db5-b39b-db31b999e02d" /> | <img width="500" alt="floating island" src="https://github.com/user-attachments/assets/0c607f7c-fe26-439e-bdc3-2e5d89bdab19" /> |
+| <img width="500" alt="underwater city" src="https://github.com/user-attachments/assets/ce65544f-fe25-47cf-92af-b3357e786bd6" />
+ | <img width="500" alt="floating island" src="https://github.com/user-attachments/assets/0c607f7c-fe26-439e-bdc3-2e5d89bdab19" /> |
 |---|---|
 
 </p>
