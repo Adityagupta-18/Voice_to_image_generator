@@ -122,7 +122,7 @@ The application generates and previews an AI-created image based on the spoken d
 
 ## Generated AI Image
 
-<img src="images/underwater_city.png" alt="underwater city" width="500"/> <img src="images/floating_island.png" alt="floating island" width="500"/>
+<img src="images/underwater_city.png" alt="underwater city" width="500"/> <img src="images/Floating_island.png" alt="floating island" width="500"/>
 
 ---
 
